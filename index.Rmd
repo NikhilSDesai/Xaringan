@@ -158,8 +158,3 @@ Niroumand-Jadidi, M., Legleiter, C.J. and Bovolo, F., 2022. River bathymetry ret
 Neigh, C. (2024) What are the band designations for the Landsat Satellites?, What are the band designations for the Landsat satellites? | U.S. Geological Survey. 
 
 USGS (2024). LP DAAC - VIIRS Overview
-
-
-
----
-
