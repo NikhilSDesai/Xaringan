@@ -147,17 +147,17 @@ Source: [Jensen, T.S., Box, J.E. and Hvidberg, C.S., 2016](https://www.cambridge
 ##References
 Jensen, T.S., Box, J.E. and Hvidberg, C.S., 2016. A sensitivity study of annual area change for Greenland ice sheet marine terminating outlet glaciers: 1999–2013. Journal of Glaciology, 62(231), pp.72-81.
 
-Landsat 9 (2022) NASA. Available at: https://landsat.gsfc.nasa.gov/satellites/landsat-9/.
+ NASA (2022) About: NASA Landsat 9. Available at: https://landsat.gsfc.nasa.gov/satellites/landsat-9/.
 
-Landsat satellite missions (2024) Landsat Satellite Missions | U.S. Geological Survey. Available at: https://www.usgs.gov/landsat-missions/landsat-satellite-missions#:~:text=Since%201972%2C%20Landsat%20satellites%20have,natural%20resources%20and%20the%20environment. 
+Landsat satellite missions (2024) Landsat Satellite Missions | U.S. Geological Survey.
 
-NASA, USGS begin work on Landsat 9 to Continue Land Imaging legacy (2023) NASA. Available at: https://www.nasa.gov/news-release/nasa-usgs-begin-work-on-landsat-9-to-continue-land-imaging-legacy/. 
+NASA, USGS begin work on Landsat 9 to Continue Land Imaging legacy (2023) NASA. 
 
 Niroumand-Jadidi, M., Legleiter, C.J. and Bovolo, F., 2022. River bathymetry retrieval from landsat-9 images based on neural networks and comparison to superdove and sentinel-2. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, pp.5250-5260.
 
-Neigh, C. (2024) What are the band designations for the Landsat Satellites?, What are the band designations for the Landsat satellites? | U.S. Geological Survey. Available at: https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites (Accessed: 14 March 2024). 
+Neigh, C. (2024) What are the band designations for the Landsat Satellites?, What are the band designations for the Landsat satellites? | U.S. Geological Survey. 
 
-USGS (2024). LP DAAC - VIIRS Overview. Available at: https://lpdaac.usgs.gov/products/viirs_overview (Accessed: 14 March 2024).
+USGS (2024). LP DAAC - VIIRS Overview
 
 
 
